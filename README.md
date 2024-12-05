@@ -1,2 +1,3 @@
 # Lab1
-Threeraboon Thongdee
+name: Threeraboon Thongdee
+email: s6607012663107@email.kmutnb.ac.th
